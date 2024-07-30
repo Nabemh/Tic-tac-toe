@@ -1,0 +1,1 @@
+code does not do any thing when there is no winner
